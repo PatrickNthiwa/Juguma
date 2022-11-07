@@ -1,1 +1,1 @@
-# Juguma
+# Jugoma Prime Limited

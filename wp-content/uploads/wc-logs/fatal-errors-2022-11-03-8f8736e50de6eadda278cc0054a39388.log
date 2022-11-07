@@ -1,0 +1,301 @@
+2022-11-03T09:59:14+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T09:59:51+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:00:00+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:00:18+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:00:18+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:00:33+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:01:18+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:02:18+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:03:18+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:03:58+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:03:59+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:04:02+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:04:06+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:04:09+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:04:12+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:04:34+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:04:45+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:05:07+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:05:10+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:05:11+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:05:11+00:00 CRITICAL Uncaught Error: Class 'Normalizer' not found in C:\xampp\htdocs\Juguma\wp-includes\formatting.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1866): remove_accents('\xC3\x85land Islands')
+#1 [internal function]: {closure}('\xC3\x85land Islands', 'AX')
+#2 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1867): array_walk(Array, Object(Closure))
+#3 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(53): wc_asort_by_locale(Array)
+#4 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(38): WC_Countries->get_countries()
+#5 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\class-wc-countries.php(250): WC_Countries->__get('countries')
+#6 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\wc-core-functions.php(1353): WC_Countries->get_allowed_countries()
+#7 C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\includes\data-stor in C:\xampp\htdocs\Juguma\wp-includes\formatting.php on line 1605
+
+2022-11-03T10:42:02+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:42:10+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:42:16+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:42:22+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:42:40+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:42:45+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:42:52+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:42:56+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:01+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:01+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:01+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:02+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:02+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:02+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:05+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:05+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:05+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:05+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:05+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:05+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:08+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:08+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:08+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:08+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:09+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:17+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:17+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:33+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:43:41+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:44:02+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:44:07+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:44:10+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:44:28+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:45:01+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+
+2022-11-03T10:45:26+00:00 CRITICAL Cannot declare class WC_Gateway_Mpesa, because the name is already in use in C:\xampp\htdocs\Juguma\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 106
+

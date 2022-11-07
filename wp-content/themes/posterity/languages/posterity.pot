@@ -1,0 +1,3203 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Posterity\n"
+"POT-Creation-Date: 2022-02-28 18:49+0530\n"
+"PO-Revision-Date: 2020-10-29 15:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:33
+msgid "The page you are looking for can't be found!"
+msgstr ""
+
+#: 404.php:36
+#, php-format
+msgid "Go to our %1$s or go back to %2$s"
+msgstr ""
+
+#: 404.php:37
+msgid "home page"
+msgstr ""
+
+#: 404.php:38
+msgid "previous page"
+msgstr ""
+
+#: advance/admin/admin.php:9
+msgid ""
+"There are rows in content with identical \"Navigation anchor title\" "
+"parameter, which has to be unique for each item. Please fix it by editing "
+"row parameters. Duplicated titles are:"
+msgstr ""
+
+#: advance/admin/admin.php:10
+msgid "Do You want to delete selected One Page Navigation Pointer?"
+msgstr ""
+
+#: advance/admin/admin.php:112
+#, php-format
+msgid "%s Info"
+msgstr ""
+
+#: advance/admin/admin.php:135
+msgid "Start typing to filter icons"
+msgstr ""
+
+#: advance/admin/metaboxes.php:8 advance/admin/metaboxes.php:25
+#, php-format
+msgid ""
+"Theme options for this page can be found in <a href=\"%1$s\">Appearance -"
+"&gt; Customize -&gt; %2$s</a>."
+msgstr ""
+
+#: advance/admin/metaboxes.php:16 advance/theme-options.php:2001
+msgid "Blog settings"
+msgstr ""
+
+#: advance/admin/metaboxes.php:33 advance/theme-options.php:2644
+msgid "Shop(WooCommerce) settings"
+msgstr ""
+
+#: advance/admin/metaboxes.php:46
+msgid "Blog post details"
+msgstr ""
+
+#: advance/admin/metaboxes.php:62 advance/admin/metaboxes.php:73
+#: advance/admin/metaboxes.php:83
+msgid "Page details"
+msgstr ""
+
+#: advance/admin/metaboxes.php:198
+msgid "Select/Upload images and videos"
+msgstr ""
+
+#: advance/admin/metaboxes.php:201
+msgid "Add Video from Youtube/Vimeo"
+msgstr ""
+
+#: advance/admin/metaboxes.php:202
+msgid "Add items at beginning of the list"
+msgstr ""
+
+#: advance/admin/metaboxes.php:204
+msgid "Remove selected"
+msgstr ""
+
+#: advance/admin/metaboxes.php:209
+msgid ""
+"To mark more items in Media Library and in below list, you can use "
+"<code>Ctrl</code>(<code>Cmd</code>) or <code>Shift</code> key while "
+"selecting them with mouse."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:29
+msgid "Server/WordPress Environment"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:36
+msgid "Demo Data Directory"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:37
+msgid ""
+"The directory must be writable so downloaded demo data could be saved for "
+"the import process."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:43
+#, php-format
+msgid "To allow import, make %s writable."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:49
+msgid "WP Memory Limit"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:50
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:59
+#, php-format
+msgid ""
+"%1$s - We can not determine the true memory limit that is set on your "
+"server. It is possible that your server admin blocked manipulating this "
+"limit. See: %2$s"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:59
+#: advance/admin/posterityinfo-pages-functions.php:63
+#: advance/admin/posterityinfo-pages-functions.php:67
+msgid "Increasing memory allocated to PHP"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:63
+#, php-format
+msgid ""
+"%1$s - Having memory lower than 96 MB(we recommend 128 MB or more) can "
+"produce errors while importing demo data, depending on how many plugins you "
+"have active. See: %2$s"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:67
+#, php-format
+msgid ""
+"%1$s - You should be fine with so much memory, however, depending on how "
+"many plugins you have active you should change it to 128 MB or more. See: "
+"%2$s"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:75
+msgid "PHP Version"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:76
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:83
+#: advance/admin/posterityinfo-pages-functions.php:86
+msgid ""
+"We recommend a minimum PHP version of 5.6. Having version 7 or higher is "
+"even better."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:92
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:97
+msgid "PHP Time Limit"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:98
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups). Recommended 60 "
+"seconds or more for the import process."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:105
+#, php-format
+msgid ""
+"%1$s - Having %2$s less than 30 can hurt the import process. We recommend "
+"setting it to at least 60 if possible, even if only for the import process."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:118
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:119
+msgid ""
+"The largest file size that can be contained in one post. Recommended 64 MB "
+"or more."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:125
+#: advance/admin/posterityinfo-pages-functions.php:140
+#, php-format
+msgid ""
+"%s - too low value for this setting might cause problems. Recommended 64MB "
+"or more."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:133
+msgid "Max Upload Size"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages-functions.php:134
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation. "
+"Recommended 64 MB or more."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:6
+msgid "What's next?"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:8
+msgid ""
+"This Theme requires an additional plugin before you will be able to use it. "
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:9
+msgid "Import your Posterity Template to complete the installation."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:10
+msgid "Go to SKT Templates"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:13
+msgid "Posterity theme options help you with making your site beautiful."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:14
+msgid "Go to Customizer"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:26
+msgid "Where to get help?"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:28
+msgid "Online Documentation"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:30
+msgid ""
+"Online documentation is always most up to date if it comes to explaining how "
+"to work with the theme. It will come handy as the first source when you are "
+"trying to work out problematic topics."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:33
+msgid "Theme requirements:"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:46
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:49
+msgid "Info"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:50
+msgid "Get Help"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:59 advance/posterity.php:148
+#, php-format
+msgid "Welcome to %s Theme"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:63
+msgid ""
+"Thanks for using Posterity! We are glad that you have decided to use "
+"posterity theme. We hope it will help you with making your site beautiful!"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:105
+msgid "Live preview"
+msgstr ""
+
+#: advance/admin/posterityinfo-pages.php:113
+msgid "Choose & move to next step"
+msgstr ""
+
+#: advance/admin/print-options.php:123
+msgid "Upload"
+msgstr ""
+
+#: advance/admin/print-options.php:142
+msgid "Clear field"
+msgstr ""
+
+#: advance/admin/print-options.php:235
+msgid ""
+"Use the correct <code>color</code> property in CSS( <code>green, #33FF99, "
+"rgb(255,128,0), rgba(222,112,12,0.5)</code> ), or choose a color with a "
+"color picker. Leave an empty value to use the default theme value."
+msgstr ""
+
+#: advance/admin/print-options.php:235
+msgid "Use the \"Transparent\" button to insert a transparent value."
+msgstr ""
+
+#: advance/admin/print-options.php:237
+msgid "Transparent"
+msgstr ""
+
+#: advance/admin/print-options.php:252
+msgid "Add"
+msgstr ""
+
+#: advance/admin/print-options.php:269
+msgid ""
+"Use slider to set proper value. You can click on slider handle and then use "
+"arrows keys(on keyboard) to adjust value precisely. You can also type in "
+"input value that is in/out of range of slider, and it will be used."
+msgstr ""
+
+#: advance/admin/print-options.php:299 advance/theme-options.php:16
+#: advance/theme-options.php:57 advance/theme-options.php:126
+msgid "None"
+msgstr ""
+
+#: advance/admin/print-options.php:309
+msgid "There are no products yet!"
+msgstr ""
+
+#: advance/class-posterity-framework.php:408
+msgid "Site Navigation"
+msgstr ""
+
+#: advance/class-posterity-framework.php:946
+#: advance/inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: advance/class-posterity-framework.php:946
+#: advance/class-posterity-framework.php:956
+#: advance/class-posterity-framework.php:965
+#: advance/plugins/plugins-list.php:13
+msgid "SKT Templates – Elementor & Gutenberg templates"
+msgstr ""
+
+#: advance/class-posterity-framework.php:956
+#: advance/inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: advance/class-posterity-framework.php:965
+#: advance/inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: advance/class-posterity-framework.php:969
+msgid ""
+"This feature requires SKT Templates plugin to be active and in the proper "
+"version."
+msgstr ""
+
+#: advance/compatibility.php:34
+#, php-format
+msgid ""
+"%1$s theme requires at least WordPress version %2$s. You are running version "
+"%3$s. Please upgrade and try again."
+msgstr ""
+
+#: advance/compatibility.php:44
+#, php-format
+msgid ""
+"%1$s theme requires at least PHP version %2$s. You are running version %3$s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: advance/customizer.php:405
+msgid "thin"
+msgstr ""
+
+#: advance/customizer.php:406
+msgid "extra-light"
+msgstr ""
+
+#: advance/customizer.php:407
+msgid "light"
+msgstr ""
+
+#: advance/customizer.php:408
+msgid "regular"
+msgstr ""
+
+#: advance/customizer.php:409
+msgid "medium"
+msgstr ""
+
+#: advance/customizer.php:410
+msgid "semi-bold"
+msgstr ""
+
+#: advance/customizer.php:411
+msgid "bold"
+msgstr ""
+
+#: advance/customizer.php:412
+msgid "extra-bold"
+msgstr ""
+
+#: advance/customizer.php:413
+msgid "black"
+msgstr ""
+
+#: advance/head-scripts-styles.php:126
+msgid "Load more"
+msgstr ""
+
+#: advance/head-scripts-styles.php:127
+msgid "Loading next items"
+msgstr ""
+
+#: advance/head-scripts-styles.php:200
+msgid "Add comment"
+msgstr ""
+
+#: advance/head-scripts-styles.php:201
+msgid "Write your comment here&hellip;"
+msgstr ""
+
+#: advance/head-scripts-styles.php:202
+msgid "Mark item"
+msgstr ""
+
+#: advance/head-scripts-styles.php:203
+msgid "Uncheck item"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:386
+#: advance/inc/class-tgm-plugin-activation.php:827
+#: advance/inc/class-tgm-plugin-activation.php:2533
+#: advance/inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:387
+#: advance/inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:388
+#: advance/inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:934
+#: advance/inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:1121
+#: advance/inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2549 advance/meta.php:208
+#: advance/meta.php:523 advance/theme-options.php:323
+#: advance/theme-options.php:1119 advance/theme-options.php:1286
+#: advance/theme-options.php:2160 advance/theme-options.php:2322
+#: advance/theme-options.php:2572 advance/theme-options.php:2814
+#: advance/theme-options.php:2887 advance/theme-options.php:3073
+#: advance/theme-options.php:3234 advance/theme-options.php:3587
+#: advance/theme-options.php:3668 advance/theme-options.php:3692
+msgid "Type"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3509
+#: advance/inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3509
+#: advance/inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-font-control.php:78
+msgid "Font Family"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-font-control.php:81
+msgid "Standard Fonts"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-font-control.php:89
+msgid "Google Webfonts"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-font-control.php:99
+msgid "Font Subsets"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-font-control.php:106
+msgid "Font Weights & Styles"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-font-control.php:120
+msgid "Word Spacing"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-font-control.php:124
+msgid "Letter Spacing"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-font-control.php:129
+msgid ""
+"Sample text with <strong>some bold words</strong>, <em>some italic ones</em> "
+"and numbers 1 2 3 4 5 6 7 8 9 :-)"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-sidebars-control.php:49
+msgid "Name of sidebar"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-sidebars-control.php:51
+msgid "Remove this sidebar"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-sidebars-control.php:54
+msgid "Add sidebar"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-spacing-control.php:40
+msgid "Top"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-spacing-control.php:41
+#: advance/theme-options.php:65 advance/theme-options.php:667
+#: advance/theme-options.php:2088 advance/theme-options.php:2410
+#: advance/theme-options.php:2728 advance/theme-options.php:2975
+msgid "Right"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-spacing-control.php:42
+msgid "Bottom"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-spacing-control.php:43
+#: advance/theme-options.php:63 advance/theme-options.php:666
+#: advance/theme-options.php:2087 advance/theme-options.php:2409
+#: advance/theme-options.php:2727 advance/theme-options.php:2974
+msgid "Left"
+msgstr ""
+
+#: advance/inc/customizer/controls/posterity-class-a13-customize-spacing-control.php:96
+msgid "Unit"
+msgstr ""
+
+#: advance/meta.php:11 advance/theme-options.php:2048
+#: advance/theme-options.php:2261
+msgid "Posts list"
+msgstr ""
+
+#: advance/meta.php:17
+msgid "Size of brick"
+msgstr ""
+
+#: advance/meta.php:18
+msgid "What should be the width of this post on the Posts list?"
+msgstr ""
+
+#: advance/meta.php:36 advance/meta.php:610
+msgid "Featured media"
+msgstr ""
+
+#: advance/meta.php:42 advance/meta.php:616
+msgid "Post media"
+msgstr ""
+
+#: advance/meta.php:46 advance/meta.php:620 advance/theme-options.php:1288
+#: advance/theme-options.php:1296 advance/theme-options.php:1674
+msgid "Image"
+msgstr ""
+
+#: advance/meta.php:51 advance/meta.php:625
+msgid "Featured Image "
+msgstr ""
+
+#: advance/meta.php:51 advance/meta.php:62 advance/meta.php:193
+#: advance/meta.php:208 advance/meta.php:230 advance/meta.php:508
+#: advance/meta.php:523 advance/meta.php:545 advance/meta.php:625
+#: advance/meta.php:636 advance/theme-options.php:2314
+#: advance/theme-options.php:2322 advance/theme-options.php:2334
+#: advance/theme-options.php:2561 advance/theme-options.php:2572
+#: advance/theme-options.php:2585 advance/theme-options.php:2879
+#: advance/theme-options.php:2887 advance/theme-options.php:2899
+#: advance/theme-options.php:3062 advance/theme-options.php:3073
+#: advance/theme-options.php:3086 advance/theme-options.php:3226
+#: advance/theme-options.php:3234 advance/theme-options.php:3246
+#: advance/theme-options.php:3576 advance/theme-options.php:3587
+#: advance/theme-options.php:3600
+msgid "Parallax"
+msgstr ""
+
+#: advance/meta.php:56 advance/meta.php:198 advance/meta.php:513
+#: advance/meta.php:630 advance/meta.php:670 advance/theme-options.php:38
+msgid "Enable"
+msgstr ""
+
+#: advance/meta.php:57 advance/meta.php:199 advance/meta.php:514
+#: advance/meta.php:631 advance/meta.php:671 advance/theme-options.php:39
+#: advance/theme-options.php:899 advance/theme-options.php:1155
+#: advance/theme-options.php:2224 advance/theme-options.php:2439
+msgid "Disable"
+msgstr ""
+
+#: advance/meta.php:62 advance/meta.php:636
+msgid "Area height"
+msgstr ""
+
+#: advance/meta.php:63 advance/meta.php:637
+msgid "This limits the height of the image so that the parallax can work."
+msgstr ""
+
+#: advance/meta.php:84 advance/meta.php:384 advance/theme-options.php:1812
+msgid "Header"
+msgstr ""
+
+#: advance/meta.php:90 advance/meta.php:390 advance/theme-options.php:2057
+#: advance/theme-options.php:2391 advance/theme-options.php:2709
+#: advance/theme-options.php:2956 advance/theme-options.php:3156
+#: advance/theme-options.php:3453
+msgid "Hide content under the header"
+msgstr ""
+
+#: advance/meta.php:91 advance/meta.php:391 advance/meta.php:406
+#: advance/theme-options.php:1313 advance/theme-options.php:1480
+#: advance/theme-options.php:1666 advance/theme-options.php:2058
+#: advance/theme-options.php:2392 advance/theme-options.php:2710
+#: advance/theme-options.php:2957 advance/theme-options.php:3157
+#: advance/theme-options.php:3454
+msgid "Works only with the horizontal header."
+msgstr ""
+
+#: advance/meta.php:98 advance/meta.php:125 advance/meta.php:314
+#: advance/meta.php:354 advance/meta.php:398 advance/meta.php:440
+#: advance/theme-options.php:28
+msgid "Global settings"
+msgstr ""
+
+#: advance/meta.php:99 advance/meta.php:399 advance/theme-options.php:105
+msgid "Yes, hide the content"
+msgstr ""
+
+#: advance/meta.php:100 advance/meta.php:400 advance/theme-options.php:106
+msgid "Yes, hide the content and add top padding to the outside title bar."
+msgstr ""
+
+#: advance/meta.php:101 advance/meta.php:127 advance/meta.php:401
+#: advance/meta.php:442 advance/theme-options.php:107
+msgid "Turn it off"
+msgstr ""
+
+#: advance/meta.php:113 advance/meta.php:119 advance/meta.php:428
+#: advance/meta.php:434 advance/theme-options.php:2261
+#: advance/theme-options.php:2485 advance/theme-options.php:2826
+#: advance/theme-options.php:3000 advance/theme-options.php:3174
+#: advance/theme-options.php:3514
+msgid "Title bar"
+msgstr ""
+
+#: advance/meta.php:120 advance/meta.php:435
+msgid "You can use global settings or override them here"
+msgstr ""
+
+#: advance/meta.php:126 advance/meta.php:441
+msgid "Use custom settings"
+msgstr ""
+
+#: advance/meta.php:131 advance/meta.php:446
+msgid "Position"
+msgstr ""
+
+#: advance/meta.php:136 advance/meta.php:451 advance/theme-options.php:2503
+#: advance/theme-options.php:3018 advance/theme-options.php:3532
+msgid "Before the content"
+msgstr ""
+
+#: advance/meta.php:137 advance/meta.php:452 advance/theme-options.php:2504
+#: advance/theme-options.php:3019 advance/theme-options.php:3533
+msgid "Inside the content"
+msgstr ""
+
+#: advance/meta.php:139 advance/meta.php:454
+msgid ""
+"To set the background image for the \"Before the content\" option, use the "
+"<strong>featured image</strong>."
+msgstr ""
+
+#: advance/meta.php:143 advance/meta.php:458 advance/theme-options.php:1140
+#: advance/theme-options.php:2277 advance/theme-options.php:2512
+#: advance/theme-options.php:2842 advance/theme-options.php:3027
+#: advance/theme-options.php:3189 advance/theme-options.php:3541
+msgid "Variant"
+msgstr ""
+
+#: advance/meta.php:148 advance/meta.php:463 advance/theme-options.php:2279
+#: advance/theme-options.php:2514 advance/theme-options.php:2844
+#: advance/theme-options.php:3029 advance/theme-options.php:3191
+#: advance/theme-options.php:3543
+msgid "Classic(to side)"
+msgstr ""
+
+#: advance/meta.php:149 advance/meta.php:464 advance/theme-options.php:516
+#: advance/theme-options.php:2280 advance/theme-options.php:2515
+#: advance/theme-options.php:2845 advance/theme-options.php:3030
+#: advance/theme-options.php:3192 advance/theme-options.php:3544
+msgid "Centered"
+msgstr ""
+
+#: advance/meta.php:158 advance/meta.php:473 advance/theme-options.php:501
+#: advance/theme-options.php:2288 advance/theme-options.php:2526
+#: advance/theme-options.php:2853 advance/theme-options.php:3200
+msgid "Width"
+msgstr ""
+
+#: advance/meta.php:163 advance/meta.php:478 advance/theme-options.php:2290
+#: advance/theme-options.php:2528 advance/theme-options.php:2855
+#: advance/theme-options.php:3202
+msgid "Full"
+msgstr ""
+
+#: advance/meta.php:164 advance/meta.php:479 advance/theme-options.php:2291
+#: advance/theme-options.php:2529 advance/theme-options.php:2856
+#: advance/theme-options.php:3203
+msgid "Boxed"
+msgstr ""
+
+#: advance/meta.php:173 advance/meta.php:488 advance/theme-options.php:205
+#: advance/theme-options.php:306 advance/theme-options.php:2032
+#: advance/theme-options.php:2306 advance/theme-options.php:2550
+#: advance/theme-options.php:2676 advance/theme-options.php:2871
+#: advance/theme-options.php:3051 advance/theme-options.php:3218
+#: advance/theme-options.php:3498 advance/theme-options.php:3565
+msgid "How to fit the background image"
+msgstr ""
+
+#: advance/meta.php:177 advance/meta.php:492 advance/theme-options.php:70
+msgid "Cover"
+msgstr ""
+
+#: advance/meta.php:178 advance/meta.php:493 advance/theme-options.php:71
+msgid "Contain"
+msgstr ""
+
+#: advance/meta.php:179 advance/meta.php:494 advance/theme-options.php:72
+msgid "Fit Vertically"
+msgstr ""
+
+#: advance/meta.php:180 advance/meta.php:495 advance/theme-options.php:73
+msgid "Fit Horizontally"
+msgstr ""
+
+#: advance/meta.php:181 advance/meta.php:496 advance/theme-options.php:74
+msgid "Just center"
+msgstr ""
+
+#: advance/meta.php:182 advance/meta.php:497 advance/theme-options.php:75
+msgid "Repeat"
+msgstr ""
+
+#: advance/meta.php:183 advance/meta.php:498 advance/theme-options.php:76
+msgid "Repeat X"
+msgstr ""
+
+#: advance/meta.php:184 advance/meta.php:499 advance/theme-options.php:77
+msgid "Repeat Y"
+msgstr ""
+
+#: advance/meta.php:209 advance/meta.php:524 advance/theme-options.php:2323
+#: advance/theme-options.php:2573 advance/theme-options.php:2888
+#: advance/theme-options.php:3074 advance/theme-options.php:3235
+#: advance/theme-options.php:3588
+msgid ""
+"It defines how the image will scroll in the background while the page is "
+"scrolled down."
+msgstr ""
+
+#: advance/meta.php:213 advance/meta.php:528 advance/theme-options.php:94
+msgid "top to bottom"
+msgstr ""
+
+#: advance/meta.php:214 advance/meta.php:529 advance/theme-options.php:95
+msgid "bottom to top"
+msgstr ""
+
+#: advance/meta.php:215 advance/meta.php:530 advance/theme-options.php:96
+msgid "left to right"
+msgstr ""
+
+#: advance/meta.php:216 advance/meta.php:531 advance/theme-options.php:97
+msgid "right to left"
+msgstr ""
+
+#: advance/meta.php:217 advance/meta.php:532 advance/theme-options.php:98
+msgid "top-left to bottom-right"
+msgstr ""
+
+#: advance/meta.php:218 advance/meta.php:533 advance/theme-options.php:99
+msgid "top-right to bottom-left"
+msgstr ""
+
+#: advance/meta.php:219 advance/meta.php:534 advance/theme-options.php:100
+msgid "bottom-left to top-right"
+msgstr ""
+
+#: advance/meta.php:220 advance/meta.php:535 advance/theme-options.php:101
+msgid "bottom-right to top-left"
+msgstr ""
+
+#: advance/meta.php:230 advance/meta.php:545 advance/theme-options.php:2334
+#: advance/theme-options.php:2585 advance/theme-options.php:2899
+#: advance/theme-options.php:3086 advance/theme-options.php:3246
+#: advance/theme-options.php:3600
+msgid "Speed"
+msgstr ""
+
+#: advance/meta.php:231 advance/meta.php:546 advance/theme-options.php:2335
+#: advance/theme-options.php:2586 advance/theme-options.php:2900
+#: advance/theme-options.php:3087 advance/theme-options.php:3247
+#: advance/theme-options.php:3601
+msgid ""
+"It will be only used for the background that is repeated. If the background "
+"is set to not repeat this value will be ignored."
+msgstr ""
+
+#: advance/meta.php:242 advance/meta.php:557 advance/meta.php:748
+#: advance/theme-options.php:2348 advance/theme-options.php:2600
+#: advance/theme-options.php:2913 advance/theme-options.php:3101
+#: advance/theme-options.php:3260 advance/theme-options.php:3615
+msgid "Overlay color"
+msgstr ""
+
+#: advance/meta.php:243 advance/meta.php:558 advance/theme-options.php:2349
+#: advance/theme-options.php:2601 advance/theme-options.php:2914
+#: advance/theme-options.php:3102 advance/theme-options.php:3261
+#: advance/theme-options.php:3616
+msgid "Will be placed above the image(if used)"
+msgstr ""
+
+#: advance/meta.php:253 advance/meta.php:568 advance/theme-options.php:2356
+#: advance/theme-options.php:2608 advance/theme-options.php:2921
+#: advance/theme-options.php:3112 advance/theme-options.php:3268
+#: advance/theme-options.php:3623
+msgid "Titles"
+msgstr ""
+
+#: advance/meta.php:253 advance/meta.php:568 advance/meta.php:578
+#: advance/meta.php:754 advance/theme-options.php:599
+#: advance/theme-options.php:608 advance/theme-options.php:617
+#: advance/theme-options.php:749 advance/theme-options.php:755
+#: advance/theme-options.php:813 advance/theme-options.php:819
+#: advance/theme-options.php:825 advance/theme-options.php:849
+#: advance/theme-options.php:1040 advance/theme-options.php:1046
+#: advance/theme-options.php:1383 advance/theme-options.php:1390
+#: advance/theme-options.php:1509 advance/theme-options.php:1516
+#: advance/theme-options.php:1623 advance/theme-options.php:1630
+#: advance/theme-options.php:1754 advance/theme-options.php:1764
+#: advance/theme-options.php:1774 advance/theme-options.php:1780
+#: advance/theme-options.php:2356 advance/theme-options.php:2363
+#: advance/theme-options.php:2608 advance/theme-options.php:2618
+#: advance/theme-options.php:2921 advance/theme-options.php:2928
+#: advance/theme-options.php:3112 advance/theme-options.php:3122
+#: advance/theme-options.php:3268 advance/theme-options.php:3275
+#: advance/theme-options.php:3353 advance/theme-options.php:3359
+#: advance/theme-options.php:3377 advance/theme-options.php:3383
+#: advance/theme-options.php:3623 advance/theme-options.php:3633
+msgid "Text color"
+msgstr ""
+
+#: advance/meta.php:263 advance/meta.php:326 advance/meta.php:588
+#: advance/theme-options.php:2073 advance/theme-options.php:2370
+#: advance/theme-options.php:2628 advance/theme-options.php:2935
+#: advance/theme-options.php:3132 advance/theme-options.php:3282
+#: advance/theme-options.php:3644
+msgid "Top/bottom padding"
+msgstr ""
+
+#: advance/meta.php:288
+msgid "Default for pages"
+msgstr ""
+
+#: advance/meta.php:301
+msgid "Layout &amp; Sidebar"
+msgstr ""
+
+#: advance/meta.php:307 advance/theme-options.php:2066
+#: advance/theme-options.php:2400 advance/theme-options.php:2718
+#: advance/theme-options.php:2965 advance/theme-options.php:3165
+#: advance/theme-options.php:3462
+msgid "Content Layout"
+msgstr ""
+
+#: advance/meta.php:315 advance/theme-options.php:82
+msgid "Center fixed width"
+msgstr ""
+
+#: advance/meta.php:316 advance/theme-options.php:83
+msgid "Left fixed width"
+msgstr ""
+
+#: advance/meta.php:317 advance/theme-options.php:84
+msgid "Left fixed width + padding"
+msgstr ""
+
+#: advance/meta.php:318 advance/theme-options.php:85
+msgid "Right fixed width"
+msgstr ""
+
+#: advance/meta.php:319 advance/theme-options.php:86
+msgid "Right fixed width + padding"
+msgstr ""
+
+#: advance/meta.php:320 advance/theme-options.php:87
+msgid "Full width + fixed content"
+msgstr ""
+
+#: advance/meta.php:321 advance/theme-options.php:88
+msgid "Full width + padding"
+msgstr ""
+
+#: advance/meta.php:322 advance/theme-options.php:89
+#: advance/theme-options.php:222 advance/theme-options.php:504
+#: advance/theme-options.php:1166
+msgid "Full width"
+msgstr ""
+
+#: advance/meta.php:326 advance/meta.php:338 advance/theme-options.php:438
+#: advance/theme-options.php:501 advance/theme-options.php:513
+#: advance/theme-options.php:797 advance/theme-options.php:942
+#: advance/theme-options.php:2073
+msgid "Content"
+msgstr ""
+
+#: advance/meta.php:331 advance/meta.php:343 advance/theme-options.php:2075
+msgid "Both on"
+msgstr ""
+
+#: advance/meta.php:332 advance/theme-options.php:2076
+msgid "Only top"
+msgstr ""
+
+#: advance/meta.php:333 advance/theme-options.php:2077
+msgid "Only bottom"
+msgstr ""
+
+#: advance/meta.php:334 advance/meta.php:344 advance/theme-options.php:2078
+msgid "Both off"
+msgstr ""
+
+#: advance/meta.php:338
+msgid "Left/right padding"
+msgstr ""
+
+#: advance/meta.php:348 advance/theme-options.php:2085
+#: advance/theme-options.php:2407 advance/theme-options.php:2725
+#: advance/theme-options.php:2972 advance/theme-options.php:3469
+msgid "Sidebar"
+msgstr ""
+
+#: advance/meta.php:355 advance/meta.php:356 advance/theme-options.php:3472
+msgid "Sidebar on the left"
+msgstr ""
+
+#: advance/meta.php:356 advance/meta.php:358 advance/meta.php:360
+#: advance/meta.php:362
+msgid "Children Navigation"
+msgstr ""
+
+#: advance/meta.php:358
+#, php-format
+msgid "Only %s on the left"
+msgstr ""
+
+#: advance/meta.php:359 advance/meta.php:360 advance/theme-options.php:3475
+msgid "Sidebar on the right"
+msgstr ""
+
+#: advance/meta.php:362
+#, php-format
+msgid "Only %s on the right"
+msgstr ""
+
+#: advance/meta.php:363 advance/theme-options.php:27
+#: advance/theme-options.php:2089 advance/theme-options.php:2411
+#: advance/theme-options.php:2729 advance/theme-options.php:2976
+#: advance/theme-options.php:3478
+msgid "Off"
+msgstr ""
+
+#: advance/meta.php:368
+msgid "Sidebar to show"
+msgstr ""
+
+#: advance/meta.php:405
+msgid "Show header from the Nth row"
+msgstr ""
+
+#: advance/meta.php:406
+msgid ""
+"If you use Elementor or WPBakery Page Builder, then you can decide to show "
+"header after the content is scrolled to Nth row. Thanks to that you can have "
+"a clean welcome screen."
+msgstr ""
+
+#: advance/meta.php:411
+msgid "Show always"
+msgstr ""
+
+#: advance/meta.php:412
+msgid "from 1st row"
+msgstr ""
+
+#: advance/meta.php:413
+msgid "from 2nd row"
+msgstr ""
+
+#: advance/meta.php:414
+msgid "from 3rd row"
+msgstr ""
+
+#: advance/meta.php:415
+msgid "from 4th row"
+msgstr ""
+
+#: advance/meta.php:416
+msgid "from 5th row"
+msgstr ""
+
+#: advance/meta.php:578 advance/theme-options.php:2363
+#: advance/theme-options.php:2618 advance/theme-options.php:2928
+#: advance/theme-options.php:3122 advance/theme-options.php:3275
+#: advance/theme-options.php:3633
+msgid "Other elements"
+msgstr ""
+
+#: advance/meta.php:658 advance/meta.php:664
+msgid "Sticky One Page mode"
+msgstr ""
+
+#: advance/meta.php:665
+msgid ""
+"This works only when page is designed with WPBakery Page Builder. With this "
+"option enabled, the page will turn into a vertical slider to the full height "
+"of the browser window, and each row created in the WPBakery Page Builder is "
+"a single slide."
+msgstr ""
+
+#: advance/meta.php:675
+msgid "Color of navigation bullets"
+msgstr ""
+
+#: advance/meta.php:684
+msgid "Default bullets icon"
+msgstr ""
+
+#: advance/meta.php:728
+msgid "General"
+msgstr ""
+
+#: advance/meta.php:734
+msgid "Subtitle"
+msgstr ""
+
+#: advance/meta.php:735 advance/theme-options.php:439
+msgid "You can use HTML here."
+msgstr ""
+
+#: advance/meta.php:741
+msgid "Testimonial"
+msgstr ""
+
+#: advance/meta.php:754
+msgid "Overlay"
+msgstr ""
+
+#: advance/meta.php:769 advance/theme-options.php:457
+#: advance/theme-options.php:477 advance/theme-options.php:489
+#: advance/theme-options.php:857 advance/theme-options.php:1220
+#: advance/theme-options.php:1230 advance/theme-options.php:1241
+#: advance/theme-options.php:1252 advance/theme-options.php:1860
+#: advance/theme-options.php:1871
+msgid "Social icons"
+msgstr ""
+
+#: advance/posterity.php:72
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: advance/posterity.php:73
+msgid "Upgrade"
+msgstr ""
+
+#: advance/posterity.php:113
+msgid ""
+"Thank you for using Posterity theme, we hope everything is working good for "
+"you."
+msgstr ""
+
+#: advance/posterity.php:114
+msgid ""
+"If you have a spare 2 minutes please rate Posterity theme. If not, no big "
+"deal, just keep on rocking :-)"
+msgstr ""
+
+#. Author of the plugin/theme
+#: advance/posterity.php:115
+msgid "SKT Themes"
+msgstr ""
+
+#: advance/posterity.php:120
+msgid "Maybe later&#8230;(hide for 7 days)"
+msgstr ""
+
+#: advance/posterity.php:122
+msgid "Do not show this notification again"
+msgstr ""
+
+#: advance/posterity.php:149
+msgid "Click on the button below to complete theme installation process.."
+msgstr ""
+
+#: advance/posterity.php:150
+msgid "Complete Installation"
+msgstr ""
+
+#: advance/sidebars.php:12
+msgid "Blog sidebar"
+msgstr ""
+
+#: advance/sidebars.php:13
+msgid ""
+"Widgets from this sidebar will appear on blog, search results, archive page, "
+"and 404 error page."
+msgstr ""
+
+#: advance/sidebars.php:17
+msgid "Post sidebar"
+msgstr ""
+
+#: advance/sidebars.php:18
+msgid "Widgets from this sidebar will appear in single posts."
+msgstr ""
+
+#: advance/sidebars.php:22
+msgid "Page sidebar"
+msgstr ""
+
+#: advance/sidebars.php:23 advance/sidebars.php:69
+msgid "Widgets from this sidebar will appear in static pages."
+msgstr ""
+
+#: advance/sidebars.php:27 advance/utilities/header.php:247
+msgid "Shop sidebar"
+msgstr ""
+
+#: advance/sidebars.php:28
+msgid ""
+"Widgets from this sidebar will appear only in shop pages. WooCommerce have "
+"to be installed and activated."
+msgstr ""
+
+#: advance/sidebars.php:32 advance/theme-options.php:627
+msgid "Hidden sidebar"
+msgstr ""
+
+#: advance/sidebars.php:33
+msgid ""
+"It is always available sidebar, that is activated by clicking on the icon in "
+"the header. Good for some special menus or other tips/information for the "
+"user."
+msgstr ""
+
+#: advance/sidebars.php:37
+msgid "Basket sidebar"
+msgstr ""
+
+#: advance/sidebars.php:38
+msgid ""
+"It is always available sidebar (but only active if WooCommerce is installed "
+"and activated), that is activated by clicking on the icon in the header. You "
+"should put a shopping cart widget there, as well as, for example, several "
+"special widgets."
+msgstr ""
+
+#: advance/sidebars.php:42
+msgid "Footer widget area"
+msgstr ""
+
+#: advance/sidebars.php:43
+msgid ""
+"Widgets from this area will appear in footer, only if horizontal header is "
+"used."
+msgstr ""
+
+#: advance/theme-options.php:44
+msgid "100"
+msgstr ""
+
+#: advance/theme-options.php:45
+msgid "200"
+msgstr ""
+
+#: advance/theme-options.php:46
+msgid "300"
+msgstr ""
+
+#: advance/theme-options.php:47
+msgid "Normal 400"
+msgstr ""
+
+#: advance/theme-options.php:48
+msgid "500"
+msgstr ""
+
+#: advance/theme-options.php:49
+msgid "600"
+msgstr ""
+
+#: advance/theme-options.php:50
+msgid "Bold 700"
+msgstr ""
+
+#: advance/theme-options.php:51
+msgid "800"
+msgstr ""
+
+#: advance/theme-options.php:52
+msgid "900"
+msgstr ""
+
+#: advance/theme-options.php:58
+msgid "Uppercase"
+msgstr ""
+
+#: advance/theme-options.php:64
+msgid "Center"
+msgstr ""
+
+#: advance/theme-options.php:112
+msgid "Black"
+msgstr ""
+
+#: advance/theme-options.php:113 advance/theme-options.php:477
+#: advance/theme-options.php:489 advance/theme-options.php:564
+#: advance/theme-options.php:983 advance/theme-options.php:990
+#: advance/theme-options.php:1230 advance/theme-options.php:1241
+#: advance/theme-options.php:1818 advance/theme-options.php:1825
+#: advance/theme-options.php:1860 advance/theme-options.php:1871
+#: advance/theme-options.php:1891 advance/theme-options.php:1898
+msgid "Color"
+msgstr ""
+
+#: advance/theme-options.php:114
+msgid "White"
+msgstr ""
+
+#: advance/theme-options.php:115
+msgid "Semi transparent"
+msgstr ""
+
+#: advance/theme-options.php:120
+msgid "Show cross"
+msgstr ""
+
+#: advance/theme-options.php:121
+msgid "Drop"
+msgstr ""
+
+#: advance/theme-options.php:122
+msgid "Shift"
+msgstr ""
+
+#: advance/theme-options.php:123
+msgid "Pop text"
+msgstr ""
+
+#: advance/theme-options.php:124
+msgid "Border"
+msgstr ""
+
+#: advance/theme-options.php:125
+msgid "Scale down"
+msgstr ""
+
+#: advance/theme-options.php:149 advance/theme-options.php:1883
+msgid "General settings"
+msgstr ""
+
+#: advance/theme-options.php:158
+msgid "Front page"
+msgstr ""
+
+#: advance/theme-options.php:167
+msgid "What to show on the front page?"
+msgstr ""
+
+#: advance/theme-options.php:169
+#, php-format
+msgid ""
+"If you choose <strong>Page</strong> then make sure that in <a href=\"%s"
+"\">WordPress Homepage Settings</a> you have selected <strong>A static page</"
+"strong>, that you wish to use as the front page."
+msgstr ""
+
+#: advance/theme-options.php:171
+msgid "Page"
+msgstr ""
+
+#: advance/theme-options.php:172 advance/utilities/layout-parts.php:731
+msgid "Blog"
+msgstr ""
+
+#: advance/theme-options.php:181
+msgid "General layout"
+msgstr ""
+
+#: advance/theme-options.php:190 advance/theme-options.php:288
+#: advance/theme-options.php:2026 advance/theme-options.php:2299
+#: advance/theme-options.php:2540 advance/theme-options.php:2670
+#: advance/theme-options.php:2864 advance/theme-options.php:3041
+#: advance/theme-options.php:3211 advance/theme-options.php:3492
+#: advance/theme-options.php:3555
+msgid "Background image"
+msgstr ""
+
+#: advance/theme-options.php:213 advance/theme-options.php:315
+#: advance/theme-options.php:525 advance/theme-options.php:533
+#: advance/theme-options.php:637 advance/theme-options.php:806
+#: advance/theme-options.php:969 advance/theme-options.php:976
+#: advance/theme-options.php:1028 advance/theme-options.php:1034
+#: advance/theme-options.php:1185 advance/theme-options.php:1191
+#: advance/theme-options.php:1491 advance/theme-options.php:1523
+#: advance/theme-options.php:1547 advance/theme-options.php:1786
+#: advance/theme-options.php:1793 advance/theme-options.php:1799
+#: advance/theme-options.php:1832 advance/theme-options.php:1839
+#: advance/theme-options.php:1972 advance/theme-options.php:1980
+#: advance/theme-options.php:2040 advance/theme-options.php:2684
+#: advance/theme-options.php:3304 advance/theme-options.php:3341
+#: advance/theme-options.php:3347 advance/theme-options.php:3365
+#: advance/theme-options.php:3371 advance/theme-options.php:3506
+msgid "Background color"
+msgstr ""
+
+#: advance/theme-options.php:220
+msgid "Layout"
+msgstr ""
+
+#: advance/theme-options.php:229
+msgid "Mouse cursor"
+msgstr ""
+
+#: advance/theme-options.php:231
+msgid "Normal"
+msgstr ""
+
+#: advance/theme-options.php:232
+msgid "Predefined"
+msgstr ""
+
+#: advance/theme-options.php:233
+msgid "Custom"
+msgstr ""
+
+#: advance/theme-options.php:241
+msgid "Cursor"
+msgstr ""
+
+#: advance/theme-options.php:250
+msgid "Custom cursor image"
+msgstr ""
+
+#: advance/theme-options.php:258 advance/theme-options.php:267
+msgid "Page preloader"
+msgstr ""
+
+#: advance/theme-options.php:275
+msgid "Hide event"
+msgstr ""
+
+#: advance/theme-options.php:276
+msgid ""
+"<strong>On load</strong> is called when the whole site, with all the images, "
+"is loaded, which can take a lot of time on heavier sites, and even more time "
+"on mobile devices. Also,  it can sometimes hang and never hide the "
+"preloader, when there is a problem with some resource. <br /><strong>On DOM "
+"ready</strong> is called when the whole HTML with CSS is loaded, so after "
+"the preloader is hidden, you can still see the loading of images. This is a "
+"much safer option."
+msgstr ""
+
+#: advance/theme-options.php:278
+msgid "On DOM ready"
+msgstr ""
+
+#: advance/theme-options.php:279
+msgid "On load"
+msgstr ""
+
+#: advance/theme-options.php:325
+msgid "none"
+msgstr ""
+
+#: advance/theme-options.php:326
+msgid "Atom"
+msgstr ""
+
+#: advance/theme-options.php:327
+msgid "Flash"
+msgstr ""
+
+#: advance/theme-options.php:328
+msgid "Indicator"
+msgstr ""
+
+#: advance/theme-options.php:329
+msgid "Radar"
+msgstr ""
+
+#: advance/theme-options.php:330
+msgid "Circle Illusion"
+msgstr ""
+
+#: advance/theme-options.php:331
+msgid "Square of squares"
+msgstr ""
+
+#: advance/theme-options.php:332
+msgid "Plus minus"
+msgstr ""
+
+#: advance/theme-options.php:333
+msgid "Hand"
+msgstr ""
+
+#: advance/theme-options.php:334
+msgid "Blurry"
+msgstr ""
+
+#: advance/theme-options.php:335
+msgid "Arcs"
+msgstr ""
+
+#: advance/theme-options.php:336
+msgid "Tetromino"
+msgstr ""
+
+#: advance/theme-options.php:337
+msgid "Infinity"
+msgstr ""
+
+#: advance/theme-options.php:338
+msgid "Cloud circle"
+msgstr ""
+
+#: advance/theme-options.php:339
+msgid "Dots"
+msgstr ""
+
+#: advance/theme-options.php:340
+msgid "Jet-Pack-Man"
+msgstr ""
+
+#: advance/theme-options.php:350
+msgid "Animation color"
+msgstr ""
+
+#: advance/theme-options.php:365 advance/theme-options.php:374
+msgid "Theme Header"
+msgstr ""
+
+#: advance/theme-options.php:366
+msgid ""
+"Theme header is a place where you usually find the logo of your site, main "
+"menu, and a few other elements."
+msgstr ""
+
+#: advance/theme-options.php:375
+msgid ""
+"If you do not plan to use theme header or want to replace it with something "
+"else, just disable it here."
+msgstr ""
+
+#: advance/theme-options.php:383 advance/theme-options.php:392
+msgid "Footer"
+msgstr ""
+
+#: advance/theme-options.php:423
+msgid "Widgets columns number"
+msgstr ""
+
+#: advance/theme-options.php:425
+msgid "1"
+msgstr ""
+
+#: advance/theme-options.php:426
+msgid "2"
+msgstr ""
+
+#: advance/theme-options.php:427
+msgid "3"
+msgstr ""
+
+#: advance/theme-options.php:428
+msgid "4"
+msgstr ""
+
+#: advance/theme-options.php:429
+msgid "5"
+msgstr ""
+
+#: advance/theme-options.php:447
+msgid "Privacy Policy Link"
+msgstr ""
+
+#: advance/theme-options.php:448
+msgid ""
+"Since WordPress 4.9.6 there is an option to set Privacy Policy page. If you "
+"enable this option it will display a link to it in the footer after footer "
+"content."
+msgstr ""
+
+#: advance/theme-options.php:448
+msgid "Here you can set your Privacy Policy page"
+msgstr ""
+
+#: advance/theme-options.php:459 advance/theme-options.php:1222
+#, php-format
+msgid ""
+"If you need to edit social links go to <a href=\"%s\">Social icons</a> "
+"settings."
+msgstr ""
+
+#: advance/theme-options.php:489 advance/theme-options.php:617
+#: advance/theme-options.php:755 advance/theme-options.php:825
+#: advance/theme-options.php:976 advance/theme-options.php:990
+#: advance/theme-options.php:1034 advance/theme-options.php:1046
+#: advance/theme-options.php:1191 advance/theme-options.php:1241
+#: advance/theme-options.php:1363 advance/theme-options.php:1390
+#: advance/theme-options.php:1764 advance/theme-options.php:1839
+#: advance/theme-options.php:1853 advance/theme-options.php:1871
+#: advance/theme-options.php:1980 advance/theme-options.php:3347
+#: advance/theme-options.php:3359 advance/theme-options.php:3371
+#: advance/theme-options.php:3383
+msgid "on hover"
+msgstr ""
+
+#: advance/theme-options.php:503 advance/theme-options.php:1165
+msgid "Narrow"
+msgstr ""
+
+#: advance/theme-options.php:513
+msgid "Style"
+msgstr ""
+
+#: advance/theme-options.php:515
+msgid "Classic"
+msgstr ""
+
+#: advance/theme-options.php:533 advance/theme-options.php:575
+#: advance/theme-options.php:599 advance/theme-options.php:608
+#: advance/theme-options.php:617
+msgid "Lower part"
+msgstr ""
+
+#: advance/theme-options.php:534
+msgid ""
+"If you want to have a different color in the lower part than in the footer "
+"widgets."
+msgstr ""
+
+#: advance/theme-options.php:542 advance/theme-options.php:653
+#: advance/theme-options.php:3320
+msgid "Widgets colors"
+msgstr ""
+
+#: advance/theme-options.php:543 advance/theme-options.php:654
+#: advance/theme-options.php:3321
+msgid "Depending on what background you have set up, choose proper option."
+msgstr ""
+
+#: advance/theme-options.php:545 advance/theme-options.php:656
+#: advance/theme-options.php:3323
+msgid "On dark"
+msgstr ""
+
+#: advance/theme-options.php:546 advance/theme-options.php:657
+#: advance/theme-options.php:3324
+msgid "On light"
+msgstr ""
+
+#: advance/theme-options.php:555
+msgid "Separator between widgets and footer content"
+msgstr ""
+
+#: advance/theme-options.php:564
+msgid "Separator"
+msgstr ""
+
+#: advance/theme-options.php:575 advance/theme-options.php:587
+#: advance/theme-options.php:643 advance/theme-options.php:775
+#: advance/theme-options.php:785 advance/theme-options.php:831
+#: advance/theme-options.php:932 advance/theme-options.php:942
+#: advance/theme-options.php:997 advance/theme-options.php:1052
+#: advance/theme-options.php:1397 advance/theme-options.php:1498
+#: advance/theme-options.php:1637 advance/theme-options.php:1951
+#: advance/theme-options.php:3310 advance/theme-options.php:3389
+msgid "Font size"
+msgstr ""
+
+#: advance/theme-options.php:587
+msgid "Widgets part"
+msgstr ""
+
+#: advance/theme-options.php:600 advance/theme-options.php:609
+#: advance/theme-options.php:618
+msgid "Does not work for footer widgets."
+msgstr ""
+
+#: advance/theme-options.php:608 advance/theme-options.php:617
+#: advance/theme-options.php:819 advance/theme-options.php:825
+#: advance/theme-options.php:877 advance/theme-options.php:1509
+#: advance/theme-options.php:1516 advance/theme-options.php:1523
+#: advance/theme-options.php:1623 advance/theme-options.php:1630
+#: advance/theme-options.php:1774 advance/theme-options.php:1780
+#: advance/theme-options.php:1786
+msgid "Links"
+msgstr ""
+
+#: advance/theme-options.php:628
+msgid ""
+"It is active only if it contains active widgets. After activation, displays "
+"the opening button in the header."
+msgstr ""
+
+#: advance/theme-options.php:664
+msgid "Side"
+msgstr ""
+
+#: advance/theme-options.php:674
+msgid "Opening effect"
+msgstr ""
+
+#: advance/theme-options.php:676
+msgid "Slide in on top"
+msgstr ""
+
+#: advance/theme-options.php:677
+msgid "Reveal"
+msgstr ""
+
+#: advance/theme-options.php:678
+msgid "Push"
+msgstr ""
+
+#: advance/theme-options.php:679
+msgid "Slide along"
+msgstr ""
+
+#: advance/theme-options.php:680
+msgid "Reverse slide out"
+msgstr ""
+
+#: advance/theme-options.php:681
+msgid "Fall down"
+msgstr ""
+
+#: advance/theme-options.php:689
+msgid "Fonts settings"
+msgstr ""
+
+#: advance/theme-options.php:698
+msgid "Font for main navigation menu and overlay menu:"
+msgstr ""
+
+#: advance/theme-options.php:708
+msgid "Font for Titles/Headings:"
+msgstr ""
+
+#: advance/theme-options.php:718
+msgid "Font for normal(content) text:"
+msgstr ""
+
+#: advance/theme-options.php:728
+msgid "Font for text logo:"
+msgstr ""
+
+#: advance/theme-options.php:739
+msgid "Headings"
+msgstr ""
+
+#: advance/theme-options.php:761 advance/theme-options.php:1062
+#: advance/theme-options.php:1408 advance/theme-options.php:1531
+#: advance/theme-options.php:1648 advance/theme-options.php:1963
+#: advance/theme-options.php:3399
+msgid "Font weight"
+msgstr ""
+
+#: advance/theme-options.php:768 advance/theme-options.php:1069
+#: advance/theme-options.php:1539 advance/theme-options.php:1656
+#: advance/theme-options.php:3406
+msgid "Text transform"
+msgstr ""
+
+#: advance/theme-options.php:775 advance/theme-options.php:785
+#: advance/theme-options.php:932
+msgid "Main titles"
+msgstr ""
+
+#: advance/theme-options.php:785 advance/theme-options.php:1327
+#: advance/theme-options.php:1430 advance/theme-options.php:1711
+#: advance/theme-options.php:1740
+msgid "on mobile devices"
+msgstr ""
+
+#: advance/theme-options.php:786
+msgid "It will be used on devices less than 768 pixels wide."
+msgstr ""
+
+#: advance/theme-options.php:807
+msgid ""
+"It will change the default white background color that is set under content "
+"on pages, blog, posts"
+msgstr ""
+
+#: advance/theme-options.php:841 advance/theme-options.php:849
+msgid "First paragraph"
+msgstr ""
+
+#: advance/theme-options.php:841
+msgid "Highlight"
+msgstr ""
+
+#: advance/theme-options.php:842
+msgid ""
+"If enabled, it highlights(font size and color) the first paragraph in the "
+"content(blog, post, page)."
+msgstr ""
+
+#: advance/theme-options.php:858
+msgid ""
+"These icons will be used in various places across theme if you decide to "
+"activate them."
+msgstr ""
+
+#: advance/theme-options.php:866
+msgid "Type of icons"
+msgstr ""
+
+#: advance/theme-options.php:868
+msgid "Squares"
+msgstr ""
+
+#: advance/theme-options.php:869
+msgid "Circles"
+msgstr ""
+
+#: advance/theme-options.php:870
+msgid "Only icons"
+msgstr ""
+
+#: advance/theme-options.php:878
+msgid ""
+"Drag and drop to change order of icons. Only filled links will show up as "
+"social icons."
+msgstr ""
+
+#: advance/theme-options.php:887
+msgid "Lightbox settings"
+msgstr ""
+
+#: advance/theme-options.php:888
+msgid ""
+"If you wish to use some other plugin/script for images and items, you can "
+"switch off default theme lightbox. If you are planning to use different "
+"lightbox script instead, then you will have to do some extra work with "
+"scripting to make it work in every theme place."
+msgstr ""
+
+#: advance/theme-options.php:896
+msgid "Theme lightbox"
+msgstr ""
+
+#: advance/theme-options.php:898
+msgid "Light Gallery"
+msgstr ""
+
+#: advance/theme-options.php:906
+msgid "Use theme lightbox for images in posts"
+msgstr ""
+
+#: advance/theme-options.php:907
+msgid ""
+"If enabled, the theme will use a lightbox to display images in the post "
+"content. To work properly, Images should link to \"Media File\"."
+msgstr ""
+
+#: advance/theme-options.php:916
+msgid "Widgets"
+msgstr ""
+
+#: advance/theme-options.php:924
+msgid "Top margin"
+msgstr ""
+
+#: advance/theme-options.php:925 advance/theme-options.php:943
+msgid "It only affects the widgets in the vertical sidebars."
+msgstr ""
+
+#: advance/theme-options.php:954 advance/theme-options.php:962
+msgid "To top button"
+msgstr ""
+
+#: advance/theme-options.php:983 advance/theme-options.php:990
+#: advance/theme-options.php:997 advance/theme-options.php:1008
+msgid "Icon"
+msgstr ""
+
+#: advance/theme-options.php:1019 advance/theme-options.php:3332
+msgid "Buttons"
+msgstr ""
+
+#: advance/theme-options.php:1020
+msgid ""
+"You can change here colors of buttons that submit forms. For shop buttons, "
+"go to the shop settings."
+msgstr ""
+
+#: advance/theme-options.php:1076 advance/theme-options.php:1416
+#: advance/theme-options.php:1430 advance/theme-options.php:1726
+#: advance/theme-options.php:1740 advance/theme-options.php:3413
+msgid "Padding"
+msgstr ""
+
+#: advance/theme-options.php:1089
+msgid "Border radius"
+msgstr ""
+
+#: advance/theme-options.php:1101
+msgid "Header settings"
+msgstr ""
+
+#: advance/theme-options.php:1110
+msgid "Type, variant, background"
+msgstr ""
+
+#: advance/theme-options.php:1121 advance/theme-options.php:2101
+msgid "Horizontal"
+msgstr ""
+
+#: advance/theme-options.php:1128
+msgid "Sticky version"
+msgstr ""
+
+#: advance/theme-options.php:1130
+msgid "No hiding sticky"
+msgstr ""
+
+#: advance/theme-options.php:1131
+msgid "Disabled, show only default header(not fixed)"
+msgstr ""
+
+#: advance/theme-options.php:1132
+msgid "Disabled, show only default header fixed"
+msgstr ""
+
+#: advance/theme-options.php:1142
+msgid "One line, logo on side"
+msgstr ""
+
+#: advance/theme-options.php:1143
+msgid "One line, menu centered"
+msgstr ""
+
+#: advance/theme-options.php:1151
+msgid "Header color variants"
+msgstr ""
+
+#: advance/theme-options.php:1152
+msgid ""
+"If you want to use theme header color variants(light and dark variants) or "
+"the sticky header variant, then enable this option. Some settings of the "
+"header can then be overridden in color & sticky variants."
+msgstr ""
+
+#: advance/theme-options.php:1154
+msgid "Turn on only for a sticky variant"
+msgstr ""
+
+#: advance/theme-options.php:1163
+msgid "Content width"
+msgstr ""
+
+#: advance/theme-options.php:1174
+msgid "Narrow the entire header as well"
+msgstr ""
+
+#: advance/theme-options.php:1192
+msgid "Useful in special cases, like when you make a transparent header."
+msgstr ""
+
+#: advance/theme-options.php:1198
+msgid "Bottom border"
+msgstr ""
+
+#: advance/theme-options.php:1206 advance/theme-options.php:1805
+msgid "Shadow"
+msgstr ""
+
+#: advance/theme-options.php:1213 advance/theme-options.php:1812
+msgid "Separator and lines color"
+msgstr ""
+
+#: advance/theme-options.php:1252 advance/theme-options.php:1988
+msgid "Display it on mobiles"
+msgstr ""
+
+#: advance/theme-options.php:1253 advance/theme-options.php:1989
+msgid "Should it be displayed on devices less than 600 pixels wide."
+msgstr ""
+
+#: advance/theme-options.php:1265 advance/theme-options.php:1674
+#: advance/theme-options.php:1685 advance/theme-options.php:1696
+#: advance/theme-options.php:1711 advance/theme-options.php:1726
+#: advance/theme-options.php:1740 advance/theme-options.php:1754
+#: advance/theme-options.php:1764
+msgid "Logo"
+msgstr ""
+
+#: advance/theme-options.php:1274
+msgid "Use logos from header variants"
+msgstr ""
+
+#: advance/theme-options.php:1275
+msgid ""
+"If you want to be able to change the logo in header color variants (light "
+"and dark variants) or in the sticky header variant, then enable this option."
+msgstr ""
+
+#: advance/theme-options.php:1289 advance/theme-options.php:1373
+#: advance/theme-options.php:1912
+msgid "Text"
+msgstr ""
+
+#: advance/theme-options.php:1297 advance/theme-options.php:1305
+#: advance/theme-options.php:1675 advance/theme-options.php:1686
+msgid "Upload an image for logo."
+msgstr ""
+
+#: advance/theme-options.php:1304 advance/theme-options.php:1685
+msgid "Image for HIGH DPI screen"
+msgstr ""
+
+#: advance/theme-options.php:1305 advance/theme-options.php:1686
+msgid "For example Retina(iPhone/iPad) screen has HIGH DPI screen."
+msgstr ""
+
+#: advance/theme-options.php:1312 advance/theme-options.php:1327
+#: advance/theme-options.php:1696 advance/theme-options.php:1711
+msgid "Max width"
+msgstr ""
+
+#: advance/theme-options.php:1312 advance/theme-options.php:1416
+#: advance/theme-options.php:1696 advance/theme-options.php:1726
+msgid "on desktop"
+msgstr ""
+
+#: advance/theme-options.php:1313 advance/theme-options.php:1417
+#: advance/theme-options.php:1697 advance/theme-options.php:1727
+msgid "It works only on large screens(1025px wide or more)."
+msgstr ""
+
+#: advance/theme-options.php:1328 advance/theme-options.php:1431
+#: advance/theme-options.php:1712 advance/theme-options.php:1741
+msgid "It works only on mobile devices(1024px wide or less)."
+msgstr ""
+
+#: advance/theme-options.php:1341
+msgid "Height"
+msgstr ""
+
+#: advance/theme-options.php:1342
+msgid "Leave empty if you do not need anything fancy"
+msgstr ""
+
+#: advance/theme-options.php:1353 advance/theme-options.php:1363
+msgid "Opacity"
+msgstr ""
+
+#: advance/theme-options.php:1374
+msgid ""
+"If you use more than one word in the logo, you can use <code>&amp;nbsp;</"
+"code> instead of a white space, so the words will not break into many lines."
+msgstr ""
+
+#: advance/theme-options.php:1376
+#, php-format
+msgid ""
+"If you want to change the font for logo go to <a href=\"%s\">Font settings</"
+"a>."
+msgstr ""
+
+#: advance/theme-options.php:1445 advance/theme-options.php:1454
+#: advance/theme-options.php:1774 advance/theme-options.php:1780
+#: advance/theme-options.php:1786
+msgid "Main Menu"
+msgstr ""
+
+#: advance/theme-options.php:1461
+msgid "Hover effect"
+msgstr ""
+
+#: advance/theme-options.php:1462 advance/theme-options.php:1524
+#: advance/theme-options.php:1787
+msgid "It works only for first level links."
+msgstr ""
+
+#: advance/theme-options.php:1470 advance/theme-options.php:1491
+#: advance/theme-options.php:1799
+msgid "Mobile menu"
+msgstr ""
+
+#: advance/theme-options.php:1470
+msgid "Close menu after click"
+msgstr ""
+
+#: advance/theme-options.php:1471
+msgid ""
+"After turning on the mobile menu will be closed after clicking the link "
+"menu. This option is good for \"one page\" sites. For traditional websites, "
+"it is recommended to disable this option."
+msgstr ""
+
+#: advance/theme-options.php:1479
+msgid "Allow for the mobile menu"
+msgstr ""
+
+#: advance/theme-options.php:1480
+msgid ""
+"If you disable this then menu will not switch to mobile menu. You should "
+"consider disabling this option only if you have a clean header with a short "
+"menu."
+msgstr ""
+
+#: advance/theme-options.php:1516 advance/theme-options.php:1523
+#: advance/theme-options.php:1630 advance/theme-options.php:1780
+#: advance/theme-options.php:1786 advance/theme-options.php:1825
+#: advance/theme-options.php:1898
+msgid "on hover/active"
+msgstr ""
+
+#: advance/theme-options.php:1547 advance/theme-options.php:1561
+#: advance/theme-options.php:1569 advance/theme-options.php:1583
+#: advance/theme-options.php:1623 advance/theme-options.php:1630
+#: advance/theme-options.php:1637 advance/theme-options.php:1648
+#: advance/theme-options.php:1656
+msgid "Submenu/Mega-Menu"
+msgstr ""
+
+#: advance/theme-options.php:1554
+msgid "Mega-Menu separator color"
+msgstr ""
+
+#: advance/theme-options.php:1561
+msgid "Opening/Closing icons"
+msgstr ""
+
+#: advance/theme-options.php:1569 advance/theme-options.php:1596
+msgid "Opening icon"
+msgstr ""
+
+#: advance/theme-options.php:1583 advance/theme-options.php:1610
+msgid "Closing icon"
+msgstr ""
+
+#: advance/theme-options.php:1596 advance/theme-options.php:1610
+msgid "Submenu 3rd level"
+msgstr ""
+
+#: advance/theme-options.php:1665
+msgid "Sticky header"
+msgstr ""
+
+#: advance/theme-options.php:1665
+msgid "Override normal settings"
+msgstr ""
+
+#: advance/theme-options.php:1666
+msgid ""
+"You can change some options here to modify the appearance of the sticky "
+"header(if it is enabled)."
+msgstr ""
+
+#: advance/theme-options.php:1818 advance/theme-options.php:1825
+#: advance/theme-options.php:1883 advance/theme-options.php:1891
+#: advance/theme-options.php:1898
+msgid "Tools icons"
+msgstr ""
+
+#: advance/theme-options.php:1819 advance/theme-options.php:1826
+#: advance/theme-options.php:1892 advance/theme-options.php:1899
+msgid ""
+"Basket, sidebar, menu and search icons. It is also color for the text of "
+"\"Tools button\"."
+msgstr ""
+
+#: advance/theme-options.php:1832 advance/theme-options.php:1839
+#: advance/theme-options.php:1846 advance/theme-options.php:1853
+#: advance/theme-options.php:1912 advance/theme-options.php:1934
+#: advance/theme-options.php:1942 advance/theme-options.php:1951
+#: advance/theme-options.php:1963 advance/theme-options.php:1972
+#: advance/theme-options.php:1980 advance/theme-options.php:1988
+msgid "Tools button"
+msgstr ""
+
+#: advance/theme-options.php:1846 advance/theme-options.php:1853
+msgid "Border color"
+msgstr ""
+
+#: advance/theme-options.php:1905
+msgctxt "tool"
+msgid "Search"
+msgstr ""
+
+#: advance/theme-options.php:1913
+msgid "If left empty then the text will not be displayed."
+msgstr ""
+
+#: advance/theme-options.php:1934
+msgid "Link"
+msgstr ""
+
+#: advance/theme-options.php:1942
+msgid "Open link in new tab"
+msgstr ""
+
+#: advance/theme-options.php:2002
+msgid "Posts list refers to Blog, Search and Archives pages"
+msgstr ""
+
+#: advance/theme-options.php:2010 advance/theme-options.php:2654
+msgid "Background"
+msgstr ""
+
+#: advance/theme-options.php:2012
+msgid "This will be the default background for pages related to the blog."
+msgstr ""
+
+#: advance/theme-options.php:2019 advance/theme-options.php:2663
+#: advance/theme-options.php:3485
+msgid "Custom background"
+msgstr ""
+
+#: advance/theme-options.php:2096
+msgid "Post look"
+msgstr ""
+
+#: advance/theme-options.php:2098
+msgid "Vertical no padding"
+msgstr ""
+
+#: advance/theme-options.php:2099
+msgid "Vertical with padding"
+msgstr ""
+
+#: advance/theme-options.php:2100
+msgid "Vertical centered"
+msgstr ""
+
+#: advance/theme-options.php:2108 advance/theme-options.php:2765
+msgid "How to place items in rows"
+msgstr ""
+
+#: advance/theme-options.php:2109 advance/theme-options.php:2766
+msgid ""
+"If your items have different heights, you can start each row of items from a "
+"new line instead of the masonry style."
+msgstr ""
+
+#: advance/theme-options.php:2111 advance/theme-options.php:2768
+msgid "Masonry"
+msgstr ""
+
+#: advance/theme-options.php:2112 advance/theme-options.php:2769
+msgid "Each row from new line"
+msgstr ""
+
+#: advance/theme-options.php:2119 advance/theme-options.php:2776
+msgid "Bricks columns"
+msgstr ""
+
+#: advance/theme-options.php:2120 advance/theme-options.php:2777
+msgid ""
+"It is a maximum number of columns displayed on larger devices. On smaller "
+"devices, it can be a lower number of columns."
+msgstr ""
+
+#: advance/theme-options.php:2131
+msgid "The maximum width of the brick layout"
+msgstr ""
+
+#: advance/theme-options.php:2132
+msgid ""
+"Depending on the actual width of the screen, the available space for bricks "
+"may be smaller, but never greater than this number."
+msgstr ""
+
+#: advance/theme-options.php:2143 advance/theme-options.php:2797
+msgid "Brick margin"
+msgstr ""
+
+#: advance/theme-options.php:2153 advance/theme-options.php:2160
+#: advance/theme-options.php:2807 advance/theme-options.php:2814
+msgid "Lazy load"
+msgstr ""
+
+#: advance/theme-options.php:2162 advance/theme-options.php:2816
+msgid "By clicking button"
+msgstr ""
+
+#: advance/theme-options.php:2163 advance/theme-options.php:2817
+msgid "On scroll"
+msgstr ""
+
+#: advance/theme-options.php:2171
+msgid "Display \"Read more\" link"
+msgstr ""
+
+#: advance/theme-options.php:2172
+msgid ""
+"Should \"Read more\" link be displayed after excerpts on blog list/search "
+"results."
+msgstr ""
+
+#: advance/theme-options.php:2179
+msgid "Type of post excerpts"
+msgstr ""
+
+#: advance/theme-options.php:2181
+msgid ""
+"In the Manual mode, excerpts are used only if you add the \"Read More Tag"
+"\" (&lt;!--more--&gt;).<br /> In the Automatic mode, if you will not provide "
+"the \"Read More Tag\" or explicit excerpt, the content of the post will be "
+"truncated automatically.<br /> This setting only concerns blog list, archive "
+"list, search results."
+msgstr ""
+
+#: advance/theme-options.php:2183
+msgid "Automatic"
+msgstr ""
+
+#: advance/theme-options.php:2184
+msgid "Manual"
+msgstr ""
+
+#: advance/theme-options.php:2191
+msgid "Number of words to cut post"
+msgstr ""
+
+#: advance/theme-options.php:2192
+msgid "After this many words post will be cut in the automatic mode."
+msgstr ""
+
+#: advance/theme-options.php:2203 advance/theme-options.php:2418
+msgid "Display post Media"
+msgstr ""
+
+#: advance/theme-options.php:2204
+msgid ""
+"You can set to not display post media(featured image/video/slider) inside of "
+"the post brick."
+msgstr ""
+
+#: advance/theme-options.php:2211
+msgid "Display of posts video"
+msgstr ""
+
+#: advance/theme-options.php:2212
+msgid ""
+"You can set to display videos as featured image on posts list. This can "
+"speed up loading of pages with many posts(blog, archive, search results) "
+"when the videos are used."
+msgstr ""
+
+#: advance/theme-options.php:2219 advance/theme-options.php:2231
+#: advance/theme-options.php:2238 advance/theme-options.php:2245
+#: advance/theme-options.php:2434 advance/theme-options.php:2446
+#: advance/theme-options.php:2453 advance/theme-options.php:2460
+msgid "Post info"
+msgstr ""
+
+#: advance/theme-options.php:2219 advance/theme-options.php:2434
+msgid "Date of publish or last update"
+msgstr ""
+
+#: advance/theme-options.php:2220 advance/theme-options.php:2435
+msgid ""
+"You can't use both dates, because the Search Engine will not know which date "
+"is correct."
+msgstr ""
+
+#: advance/theme-options.php:2222 advance/theme-options.php:2437
+msgid "Published"
+msgstr ""
+
+#: advance/theme-options.php:2223 advance/theme-options.php:2438
+msgid "Updated"
+msgstr ""
+
+#: advance/theme-options.php:2231 advance/theme-options.php:2446
+msgid "Author"
+msgstr ""
+
+#: advance/theme-options.php:2238 advance/theme-options.php:2453
+msgid "Comments number"
+msgstr ""
+
+#: advance/theme-options.php:2245 advance/theme-options.php:2460
+#: no-content.php:31
+msgid "Categories"
+msgstr ""
+
+#: advance/theme-options.php:2252 advance/theme-options.php:2467
+msgid "Tags"
+msgstr ""
+
+#: advance/theme-options.php:2253 advance/theme-options.php:2468
+msgid "Displays list of post tags under a post content."
+msgstr ""
+
+#: advance/theme-options.php:2270 advance/theme-options.php:2494
+#: advance/theme-options.php:2835 advance/theme-options.php:3009
+#: advance/theme-options.php:3182 advance/theme-options.php:3523
+msgid "Title"
+msgstr ""
+
+#: advance/theme-options.php:2382 advance/theme-options.php:2485
+msgid "Single post"
+msgstr ""
+
+#: advance/theme-options.php:2419
+msgid ""
+"You can set to not display post media(featured image/video/slider) inside of "
+"the post."
+msgstr ""
+
+#: advance/theme-options.php:2426
+msgid "Author info"
+msgstr ""
+
+#: advance/theme-options.php:2427
+msgid "Will show information about author below post content."
+msgstr ""
+
+#: advance/theme-options.php:2475
+msgid "Posts navigation"
+msgstr ""
+
+#: advance/theme-options.php:2476
+msgid "Links to next and prev post."
+msgstr ""
+
+#: advance/theme-options.php:2501 advance/theme-options.php:3016
+#: advance/theme-options.php:3530
+msgid "Title position"
+msgstr ""
+
+#: advance/theme-options.php:2655
+msgid ""
+"These options will work for all shop pages - product list, single product "
+"and other."
+msgstr ""
+
+#: advance/theme-options.php:2692 advance/theme-options.php:2826
+msgid "Products list"
+msgstr ""
+
+#: advance/theme-options.php:2701
+msgid "Search in products instead of pages"
+msgstr ""
+
+#: advance/theme-options.php:2702
+msgid ""
+"It will change WordPress default search function to make shop search. So "
+"when this is activated search function in header or search widget will act "
+"as WooCommerece search widget."
+msgstr ""
+
+#: advance/theme-options.php:2736 advance/theme-options.php:2746
+msgid "Look of products on list"
+msgstr ""
+
+#: advance/theme-options.php:2738
+msgid "Text as overlay"
+msgstr ""
+
+#: advance/theme-options.php:2739
+msgid "Text under photo"
+msgstr ""
+
+#: advance/theme-options.php:2748
+msgid "Texts to left"
+msgstr ""
+
+#: advance/theme-options.php:2749
+msgid "Texts to center"
+msgstr ""
+
+#: advance/theme-options.php:2750
+msgid "Texts to right"
+msgstr ""
+
+#: advance/theme-options.php:2758
+msgid "Show second image of product on hover"
+msgstr ""
+
+#: advance/theme-options.php:2787
+msgid "Items per page"
+msgstr ""
+
+#: advance/theme-options.php:2947 advance/theme-options.php:3000
+msgid "Single product"
+msgstr ""
+
+#: advance/theme-options.php:2983
+msgid "Theme thumbnails"
+msgstr ""
+
+#: advance/theme-options.php:2984
+msgid "If disabled it will display standard WooCommerce thumbnails."
+msgstr ""
+
+#: advance/theme-options.php:2991
+msgid "Related products"
+msgstr ""
+
+#: advance/theme-options.php:2992
+msgid "Should related products be displayed on single product page."
+msgstr ""
+
+#: advance/theme-options.php:3147 advance/theme-options.php:3174
+msgid "Other shop pages"
+msgstr ""
+
+#: advance/theme-options.php:3148 advance/theme-options.php:3173
+msgid "Settings for cart, checkout, order received and my account pages."
+msgstr ""
+
+#: advance/theme-options.php:3294
+msgid "Pop up basket"
+msgstr ""
+
+#: advance/theme-options.php:3295
+msgid ""
+"When WooCommerce is activated, button opening this basket will appear in the "
+"header. There also have to be some active widgets in \"Basket sidebar\" for "
+"this."
+msgstr ""
+
+#: advance/theme-options.php:3333
+msgid ""
+"You can change here the colors of buttons used in the shop. Alternative "
+"buttons colors are used in various places in the shop."
+msgstr ""
+
+#: advance/theme-options.php:3365 advance/theme-options.php:3371
+#: advance/theme-options.php:3377 advance/theme-options.php:3383
+msgid "Alternative button"
+msgstr ""
+
+#: advance/theme-options.php:3428
+msgid "Page settings"
+msgstr ""
+
+#: advance/theme-options.php:3437 advance/theme-options.php:3514
+msgid "Single page"
+msgstr ""
+
+#: advance/theme-options.php:3446
+msgid "Comments"
+msgstr ""
+
+#: advance/theme-options.php:3470
+msgid "You can change it in each page settings."
+msgstr ""
+
+#: advance/theme-options.php:3473
+msgid "Children Navigation + sidebar on the left"
+msgstr ""
+
+#: advance/theme-options.php:3474
+msgid "Only children Navigation on the left"
+msgstr ""
+
+#: advance/theme-options.php:3476
+msgid "Children Navigation + sidebar on the right"
+msgstr ""
+
+#: advance/theme-options.php:3477
+msgid "Only children Navigation on the right"
+msgstr ""
+
+#: advance/theme-options.php:3634
+msgid "Used in breadcrumbs."
+msgstr ""
+
+#: advance/theme-options.php:3659
+msgid "404 page template"
+msgstr ""
+
+#: advance/theme-options.php:3670 advance/theme-options.php:3694
+msgid "Default"
+msgstr ""
+
+#: advance/theme-options.php:3677 advance/theme-options.php:3701
+msgid "Default but I want to change the background image"
+msgstr ""
+
+#: advance/theme-options.php:3684
+msgid "Password protected page template"
+msgstr ""
+
+#: advance/theme-options.php:3709
+msgid "Miscellaneous"
+msgstr ""
+
+#: advance/theme-options.php:3718
+msgid "Anchors"
+msgstr ""
+
+#: advance/theme-options.php:3727
+msgid "Display anchors in address bar"
+msgstr ""
+
+#: advance/theme-options.php:3734
+msgid "Scroll to anchor handling"
+msgstr ""
+
+#: advance/theme-options.php:3735
+msgid ""
+"If enabled it will scroll to anchor after it is clicked on the same page. It "
+"can, however, conflict with plugins that uses the same mechanism, and the "
+"page can scroll in a weird way. In such case disable this feature."
+msgstr ""
+
+#: advance/utilities/cpt.php:17
+msgid "Website"
+msgstr ""
+
+#: advance/utilities/cpt.php:370
+msgctxt "previous product"
+msgid "Previous"
+msgstr ""
+
+#: advance/utilities/cpt.php:371
+msgctxt "next product"
+msgid "Next"
+msgstr ""
+
+#: advance/utilities/header.php:248 advance/utilities/layout-parts.php:492
+msgctxt "action"
+msgid "Search"
+msgstr ""
+
+#: advance/utilities/header.php:249
+msgid "More info"
+msgstr ""
+
+#: advance/utilities/header.php:250
+msgid "Main menu"
+msgstr ""
+
+#: advance/utilities/layout-parts.php:483
+msgid "Search &hellip;"
+msgstr ""
+
+#: advance/utilities/layout-parts.php:1014 advance/utilities/posts.php:187
+#: archives-template.php:34 page.php:55
+msgid "Pages: "
+msgstr ""
+
+#: advance/utilities/layout-parts.php:1154
+msgid "All"
+msgstr ""
+
+#: advance/utilities/password.php:13
+msgid "password"
+msgstr ""
+
+#: advance/utilities/password.php:13
+msgid "Submit"
+msgstr ""
+
+#: advance/utilities/posts.php:42
+msgid "Updated: "
+msgstr ""
+
+#: advance/utilities/posts.php:136
+#, php-format
+msgid "by %s "
+msgstr ""
+
+#: advance/utilities/posts.php:140 attachment.php:53
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: advance/utilities/posts.php:269
+msgid "Previous article"
+msgstr ""
+
+#: advance/utilities/posts.php:277
+msgid "Next article"
+msgstr ""
+
+#: advance/utilities/posts.php:335 advance/utilities/posts.php:352
+#: content.php:30 content.php:38
+msgid "Read more"
+msgstr ""
+
+#: advance/utilities/posts.php:385
+msgid "Comment navigation"
+msgstr ""
+
+#: advance/utilities/posts.php:388
+msgid "Older Comments"
+msgstr ""
+
+#: advance/utilities/posts.php:392
+msgid "Newer Comments"
+msgstr ""
+
+#: advance/utilities/posts.php:487
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: advance/utilities/posts.php:553 password-template.php:41
+msgid "To view it please enter your password below"
+msgstr ""
+
+#: advance/utilities/woocommerce.php:102
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: advance/utilities/woocommerce.php:325
+msgid "Out of stock"
+msgstr ""
+
+#: advance/utilities/woocommerce.php:330
+msgid "Sale"
+msgstr ""
+
+#: advance/utilities/woocommerce.php:334
+msgid "New"
+msgstr ""
+
+#: advance/utilities/woocommerce.php:611
+msgid "Go to shop"
+msgstr ""
+
+#: archives-template.php:40
+msgid "Latest 50 posts"
+msgstr ""
+
+#: archives-template.php:52
+msgid "By months"
+msgstr ""
+
+#: archives-template.php:62
+msgid "Top 10 categories"
+msgstr ""
+
+#: archives-template.php:75
+msgid "Top 10 tags"
+msgstr ""
+
+#: attachment.php:41 attachment.php:43
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: attachment.php:49
+#, php-format
+msgid "By %1$s"
+msgstr ""
+
+#: attachment.php:61
+#, php-format
+msgid "Published %1$s"
+msgstr ""
+
+#: attachment.php:74
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:77
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:86
+msgid "Edit"
+msgstr ""
+
+#: comments.php:27
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:43
+msgid "Skip to content"
+msgstr ""
+
+#: index.php:42
+#, php-format
+msgid "%1$d search result for \"%2$s\""
+msgid_plural "%1$d search results for \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: index.php:46
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: index.php:49
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: index.php:52
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: index.php:55
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: index.php:58
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: index.php:61
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: index.php:63
+msgid "Blog Archives"
+msgstr ""
+
+#: no-content.php:15
+#, php-format
+msgid "%s or use Site Map below:"
+msgstr ""
+
+#: no-content.php:15
+msgid "Go back"
+msgstr ""
+
+#: no-content.php:20
+msgid "Main navigation"
+msgstr ""
+
+#: no-content.php:38
+msgid "Pages"
+msgstr ""
+
+#: password-template.php:39
+msgid "This content is password protected."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Posterity"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.org/shop/free-creative-agency-wordpress-theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Posterity is a next generation template which comes with loads of options. "
+"It is completely free with no paid version. Provides multilingual and RTL "
+"experience. Compatible with WooCommerce, CTA contact forms, SEO and page "
+"builder plugins like Gutenberg, Elementor, Brizy, Beaver, Site Origin and "
+"others. It comes with 150+ ready to import templates which means you have "
+"unlimited possibilities using this theme. Create your next website in any "
+"industry charity, construction, computer, software or anything. Simple, "
+"flexible, easy to use and fully documented. https://www.sktthemesdemo.net/"
+"documentation/posterity-doc/"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.org"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""

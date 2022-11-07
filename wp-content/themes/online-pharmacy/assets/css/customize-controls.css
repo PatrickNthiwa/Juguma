@@ -1,0 +1,16 @@
+/* ---------Customizer--------- */
+.control-section-online-pharmacy h3.accordion-section-title {
+	background: #283b6a !important;
+	color: #fff !important;
+    padding: 20px 10px;
+}
+a.button.button-secondary.alignright {
+    color: #283b6a;
+    box-shadow: none;
+    font-weight: bold;
+    padding: 0 10px;
+    background: transparent;
+    height: 31px;
+    background: #fff;
+    border: none;
+}

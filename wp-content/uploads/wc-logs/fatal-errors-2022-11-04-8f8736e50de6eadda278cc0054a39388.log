@@ -1,0 +1,2 @@
+2022-11-04T05:26:37+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 69632 bytes) in C:\xampp\htdocs\Juguma\wp-content\plugins\woocommerce\vendor\jetpack-autoloader\class-php-autoloader.php on line 87
+

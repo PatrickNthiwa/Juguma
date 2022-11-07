@@ -1,0 +1,30 @@
+= 3.1 =
+*      Compatibility with WordPress 5.9
+*      Resolved Theme Sniffer Issue.
+
+= 3.0 =
+Added upgrade to pro and resolved theme check issues.
+
+= 2.3 =
+Making compatible with WordPress 5.7.2
+Optimized css code and add gb posterity template compatibility code
+Resolved customizer option our theme button down below line issue
+
+= 2.2 =
+WordPress 5.6 compatibility. Gutenberg template added.
+
+= 2.1 =
+Added Search Bar Option In Header Settings  Tools icons - General settings.
+Implemented Documentation Link in theme description.
+
+= 2.0 =
+
+Resolved All Issues Given By Reviewer.
+
+= 1.1 =
+
+Resolved All Issues Given By Reviewer.
+
+= 1.0 =
+
+Initial release
